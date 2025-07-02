@@ -10,7 +10,8 @@ Este repositório reúne os exercícios que estou resolvendo durante a maratona 
 
 - ✅ **Módulo 01:** Estruturas Condicionais — `20 exercícios`
 - ✅ **Módulo 02: Estruturas de Repetição** — 20 exercícios
-- 🚀 **Módulo 03: Arrays** — *Iniciando agora*
+- ✅  **Módulo 03: Arrays** - 20 exercicios
+- 
 
 ---
 
